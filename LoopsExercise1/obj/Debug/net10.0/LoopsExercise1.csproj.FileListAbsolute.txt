@@ -1,0 +1,14 @@
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\bin\Debug\net10.0\LoopsExercise1.exe
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\bin\Debug\net10.0\LoopsExercise1.deps.json
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\bin\Debug\net10.0\LoopsExercise1.runtimeconfig.json
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\bin\Debug\net10.0\LoopsExercise1.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\bin\Debug\net10.0\LoopsExercise1.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\LoopsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\LoopsExercise1.AssemblyInfoInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\LoopsExercise1.AssemblyInfo.cs
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\LoopsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\LoopsExercise1.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\refint\LoopsExercise1.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\LoopsExercise1.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\LoopsExercise1.genruntimeconfig.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\LoopsExercise1\LoopsExercise1\obj\Debug\net10.0\ref\LoopsExercise1.dll
